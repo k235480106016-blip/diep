@@ -74,7 +74,7 @@ Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
 
 ![33](./anh/33.png)
 
-### 11. Gõ lệnh xoá (delete) trong bảng SaoHoa những sinh viên cùng họ với em, vd em họ nguyễn thì xoá những sv họ Nghiêm.
+### 11. Gõ lệnh xoá (delete) trong bảng SaoHoa những sinh viên cùng họ với em, vd em họ nguyễn thì xoá những sv họ Nguyễn.
 
 ![34](./anh/34.png)
 
