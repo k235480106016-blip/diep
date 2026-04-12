@@ -6,7 +6,7 @@ Sinh Viên : Hoàng Đình Điệp- K235480106076 - K59KMT
 
 ### 1. Tải và cài đặt SQL Server 2025 Developer
 
-![alt text](anh/Screenshot (14).png)
+![alt text](anh/14.png)
 
 ### 2. Cấu hình cổng động (Dynamic Port)
 
