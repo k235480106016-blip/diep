@@ -97,3 +97,5 @@ Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
 ![41](./anh/41.png)
 
 ### 15.  Upload file dulieu.sql lên github repository
+
+[42](./anh/42.png)
