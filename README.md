@@ -2,7 +2,7 @@
 
 Nộp bài tập QTCSDL
 
-Sinh Viên : Hoàng Đình Điệp- K235480106076 - K59KMT
+Sinh Viên : Hoàng Đình Điệp- K235480106016 - K59KMT
 
 ### 1. Tải và cài đặt SQL Server 2025 Developer
 
