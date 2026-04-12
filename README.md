@@ -10,90 +10,90 @@ Sinh Viên : Hoàng Đình Điệp- K235480106076 - K59KMT
 
 ### 2. Cấu hình cổng động (Dynamic Port)
 
-![alt text](image-1.png)
+![15](./anh/15.png)
 
-![alt text](image-2.png)
+![16](./anh/16.png)
 
-![alt text](image-3.png)
+![17](./anh/17.png)
 
 
 ### 3. Kiểm tra cổng 36016 có đang mở
 
-![alt text](image-4.png)
+![18](./anh/18.png)
 
 ### 4. Tải và kết nối đến SQL Server Management Studio
 
-![alt text](image-5.png)
+![19](./anh/19.png)
 
 Kết nối bằng Windows Authentication
 
-![alt text](image-6.png)
+![20](./anh/20.png)
 
-![alt text](anh/23.png)
+![21](./anh/21.png)
 
 Tại phần đăng nhập của SQL Server Authentication, username mặc định là sa và password đặt là 123
 
-![alt text](images/24.png)
+![22](./anh/22.png)
 
-![alt text](images/25.png)
+![23](./anh/23.png)
 
 ### 5. Tạo cơ sở dữ liệu mới và chọn Path lưu cho file dữ liệu và file log
 
-![alt text](images/8.png)
+![36](./anh/36.png)
 
 Kết quả thành công
 
-![alt text](images/26.png)
+![37](./anh/37.png)
 
 ### 6. Tạo bảng dữ liệu(các trường dữ liệu phù hợp) với khóa chính là trường masv
 
-![alt text](images/27.png)
+![24](./anh/24.png)
 
 Sau khi hoàn tất lưu và đặt tên bảng
 
 ### 7. Import data from Excel file
 
-![alt text](images/9.png)
+![26](./anh/26.png)
 
 ### 8. Kiểm tra số dòng đã import vào
 
-![alt text](images/10.png)
+![28](./anh/28.png)
 
 ### 9. Insert 1 row vào bảng với dữ liệu là thông tin cá nhân của sv đang làm bài
 
-![alt text](images/11.png)
+![29](./anh/29.png)
 
 Kết quả thành công
 
-![alt text](images/12.png)
+![31](./anh/31.png)
 
 
 ### 10. Update trường noisinh thành 'Sao Hoả' cho những dòng có noisinh và diachi đều là NULL.
 
 Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
 
-![alt text](images/13.png)
+![33](./anh/33.png)
 
 ### 11. Gõ lệnh xoá (delete) trong bảng SaoHoa những sinh viên cùng họ với em, vd em họ nguyễn thì xoá những sv họ Nghiêm.
 
-![alt text](images/29.png)
+![34](./anh/34.png)
 
 ### 12. Xuất toàn bộ kết quả của các bước ra file dulieu.sql
 
-![alt text](images/14.png)
+![35](./anh/35.png)
 
  Kết quả tạo thành công file
 
- ![alt text](images/17.png)
+ ![38](./anh/38.png)
 
- ![alt text](images/16.png)
+ ![39](./anh/39.png)
 
  ### 13. Xoá csdl đã tạo
 
- ![alt text](images/18.png)
+ ![40](./anh/40.png)
 
  ### 14. Mở file Dulieu.sql, chạy toàn bộ 
 
-![alt text](images/20.png)
+![41](./anh/41.png)
 
 ### 15.  Upload file dulieu.sql lên github repository
